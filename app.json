@@ -2,8 +2,8 @@
 "environments": {
   "test": {
     "scripts":  {
-      "test": "HelloPython.py"
+      "test": "HelloPython"
       }
-      }
-      }
+    }
+  }
 }
